@@ -1,0 +1,36 @@
+---
+Paris:
+    slots: 140
+    iata: CDG
+    lat: 49.0097
+    long: 2.5479
+    traffic: 69471442
+    population: 12405426
+Lyon:
+    slots: 20
+    iata: LYS
+    lat: 45.7234
+    long: 5.0887
+    traffic: 10280192
+    population: 2237676
+Marseilles:
+    slots: 20
+    iata: MRS
+    lat: 43.4228
+    long: 5.2151
+    traffic: 9002086
+    population: 1734277
+Toulouse:
+    slots: 20
+    iata: TLS
+    lat: 43.6209
+    long: 1.3678
+    traffic: 9264611
+    population: 1291517
+Nice:
+    slots: 20
+    iata: NCE
+    lat: 43.6512
+    long: 7.2146
+    traffic: 13304782
+    population: 1004826

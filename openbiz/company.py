@@ -1,5 +1,5 @@
 
-from src.account import Account
+from openbiz.account import Account
 
 class Company:
     def __init__(self, name):
@@ -14,3 +14,7 @@ class Company:
 
     def add_route(self, route):
         self.routes.append(route)
+
+    def next_turn(self):
+        for route in self.routes:
+            self.account.withdraw(route.get_cost())

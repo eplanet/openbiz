@@ -1,6 +1,6 @@
 import unittest
 
-from src.account import Account
+from openbiz.account import Account
 
 class TestAccount(unittest.TestCase):
 

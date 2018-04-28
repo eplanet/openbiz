@@ -1,6 +1,6 @@
 import unittest
 
-from src.company import Company
+from openbiz.company import Company
 
 class TestCompany(unittest.TestCase):
 
